@@ -1,0 +1,9 @@
+.toolTip {
+  position: absolute;
+  border: 0 none;
+  border-radius: 4px 4px 4px 4px;
+  background-color: white;
+  padding: 5px;
+  text-align: center;
+  font-size: 11px;
+}
